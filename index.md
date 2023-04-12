@@ -18,7 +18,7 @@ Un contrat logistique contient de très nombreuses informations, telles que le m
 
 Toutes ces données sont dispersées dans différentes tables SAP.
 
-L'outil concatène ces données et les affiche au format souhaité par l'utilisateur pour en accélérer l'analyse.
+L'outil concatène ces données et les affiche au format souhaité pour en permettre l'analyse.
 
 <img src="images/PQDataFlow.png?raw=true"/>
 
@@ -26,7 +26,9 @@ L'outil concatène ces données et les affiche au format souhaité par l'utilisa
 
 ### Optimisation d'un flux physique entre Aptar et un client
 
-L'industrie 4.0 implique la réduction 
+Avec pour but de réduire les coûts et l'impact environnemental, j'ai mené un projet d'optimisation du plan de transport.
+
+A cet effet, j'ai modélisé flux informatiquement, supprimé les bottlenecks et supervisé la mise en place de la nouvelle organisation
 
 <img src="images/FluxCaissesCoty.png?raw=true"/>
 
