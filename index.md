@@ -5,6 +5,7 @@
 ### Tableau de bord des lead times articles
 
 A partir des données machines et fournisseurs, j'ai calculé le lead time (délai d'approvisionnement) prévisionnel de tous les articles de l'usine, soit 10 000 références. 
+
 Le rapport met ces données à disposition du service commercial pour améliorer les échanges avec le client, grâce une information fiable, détaillée et accessible.
 
 <img src="images/LeadTimePBIDashboard.jpg?raw=true"/>
