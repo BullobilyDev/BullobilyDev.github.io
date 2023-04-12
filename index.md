@@ -4,7 +4,7 @@
 
 ### Tableau de bord des lead times articles
 
-A partir des données machines et fournisseurs, j'ai calculé le lead time prévisionnel de tous les articles de l'usine, soit 10 000 références. 
+A partir des données machines et fournisseurs, PowerBI calcule le lead time prévisionnel de tous les articles de l'usine, soit 10 000 références. 
 
 Le rapport améliore la réactivité des commerciaux face aux demandes clients grâce une information fiable, détaillée et accessible.
 
@@ -25,6 +25,8 @@ L'outil concatène ces données et les affiche au format souhaité par l'utilisa
 ---
 
 ### Optimisation d'un flux physique entre Aptar et un client
+
+L'industrie 4.0 implique la réduction 
 
 <img src="images/FluxCaissesCoty.png?raw=true"/>
 
