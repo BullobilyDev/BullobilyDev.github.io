@@ -2,18 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Tableau de bord des lead times articles
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/LeadTimePBIDashboard.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Schéma relationnel d'un outil de création de contrats logistiques
+
+<img src="images/PQDataFlow.png?raw=true"/>
+
+---
+
+### Optimisation d'un flux physique entre Aptar et un client
+
+<img src="images/FluxCaissesCoty.png?raw=true"/>
 
 ---
 
@@ -26,10 +29,3 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
