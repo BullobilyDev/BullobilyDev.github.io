@@ -28,7 +28,7 @@ L'outil concatène ces données et les affiche au format souhaité pour en perme
 
 Avec pour but de réduire les coûts et l'impact environnemental, j'ai mené un projet d'optimisation du plan de transport.
 
-A cet effet, j'ai modélisé flux informatiquement, supprimé les bottlenecks et supervisé la mise en place de la nouvelle organisation
+A cet effet, j'ai modélisé flux informatiquement, supprimé les bottlenecks et supervisé la mise en place de la nouvelle organisation.
 
 <img src="images/FluxCaissesCoty.png?raw=true"/>
 
