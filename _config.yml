@@ -16,4 +16,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   Tél : <br><a href="tel:0644953915">06 44 95 39 15</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: G-G9WE0Y8JDD # your Google Analytics tracking ID here
+google_analytics: "G-G9WE0Y8JDD" # your Google Analytics tracking ID here
