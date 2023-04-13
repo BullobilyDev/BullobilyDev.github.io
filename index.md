@@ -8,7 +8,7 @@ A partir des données machines et fournisseurs, PowerBI calcule le lead time pr�
 
 Le rapport améliore la réactivité des commerciaux face aux demandes clients grâce une information fiable, détaillée et accessible.
 
-<img src="images/LeadTime2.png?raw=true"/>
+<img src="images/LeadTimes2.png?raw=true"/>
 
 ---
 
