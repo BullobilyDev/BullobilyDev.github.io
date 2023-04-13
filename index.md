@@ -8,11 +8,11 @@ A partir des données machines et fournisseurs, PowerBI calcule le lead time pr�
 
 Le rapport améliore la réactivité des commerciaux face aux demandes clients grâce une information fiable, détaillée et accessible.
 
-<img src="images/LeadTimePBIDashboard.jpg?raw=true"/>
+<img src="images/LeadTime2.jpg?raw=true"/>
 
 ---
 
-### Schéma relationnel d'un outil de création de contrats logistiques
+### Data wrangling : schéma relationnel d'un outil de création de contrats logistiques
 
 Un contrat logistique contient de très nombreuses informations, telles que le minimum de commande, l'incoterm ou le prix. 
 
