@@ -41,6 +41,6 @@ Passionné par Minecraft depuis toujours, j'ai décidé de fonder un serveur en 
 Avec une petite équipe, nous avons développé (en Java) des versions innovantes de trois modes de jeux bien connus : GTA, Créatif et Faction.
 
 [Trailer du serveur](https://www.youtube.com/watch?v=vKQYi4CtNsI)
-![Miniature du trailer](http://img.youtube.com/vi/vKQYi4CtNsI/0.jpg)
+![Miniature du trailer](https://img.youtube.com/vi/vKQYi4CtNsI/0.jpg)
 
 ---
