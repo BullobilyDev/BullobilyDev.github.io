@@ -2,7 +2,7 @@
 
 ---
 
-### Business intelligence : tableau de bord des lead times articles
+### Business intelligence : tableau de bord lead times articles
 
 A partir des données machines et fournisseurs, PowerBI calcule le lead time prévisionnel de tous les articles de l'usine, soit 10 000 références. 
 
@@ -12,7 +12,7 @@ Le rapport améliore la réactivité des commerciaux face aux demandes clients g
 
 ---
 
-### Data wrangling : schéma relationnel d'un outil de création de contrats logistiques
+### Data wrangling : outil de création de contrats logistiques
 
 Un contrat logistique contient de très nombreuses informations, telles que le minimum de commande, l'incoterm ou le prix. 
 
@@ -24,7 +24,7 @@ L'outil concatène ces données et les affiche au format souhaité pour en perme
 
 ---
 
-### Géodécisionnel : optimisation d'un flux physique entre Aptar et un client
+### Géodécisionnel : optimisation flux physiques fournisseur / client
 
 Avec pour but de réduire les coûts et l'impact environnemental, j'ai mené un projet d'optimisation du plan de transport.
 
