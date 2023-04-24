@@ -20,7 +20,7 @@ Toutes ces données sont dispersées dans différentes tables SAP.
 
 L'outil concatène ces données et les affiche au format souhaité pour en permettre l'analyse.
 
-<img src="images/PQDataFlow.png?raw=true"/>
+<img src="images/PQDataFlow2.png?raw=true"/>
 
 ---
 
