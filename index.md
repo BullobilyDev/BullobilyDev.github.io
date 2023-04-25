@@ -12,7 +12,7 @@ Le rapport améliore la réactivité des commerciaux face aux demandes clients g
 
 ---
 
-### Data wrangling : outil de création de contrats logistiques
+### Data modeling : outil de création de contrats logistiques
 
 Un contrat logistique contient de très nombreuses informations, telles que le minimum de commande, l'incoterm ou le prix. 
 
